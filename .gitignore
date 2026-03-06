@@ -47,3 +47,4 @@ desktop.ini
 
 # Allow seeded JSON for Vercel
 !api/seed_data.json
+.vercel
